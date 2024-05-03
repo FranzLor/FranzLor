@@ -41,6 +41,18 @@
 
 ###
 
+<div align="center">
+    <a href="https://www.linkedin.com/in/franz-lor/)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/justfraaaanz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
+  </a>
+
+</div>
+
+###
+
 <img align="left" height="190" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dxemx5dmh1cHNtdWo4aWhybHlnbnk3ejR0MzVidWR4eDN2czI4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif"  />
 
 ###
