@@ -12,13 +12,13 @@
 
 ###
 
-<h6 align="left">
+<h5 align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🔭 I'm currently working on <a href="https://github.com/FranzLor/HousecatEngine">Housecat Game Engine</a><br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🌱 I'm currently learning <a href="https://www.opengl.org/">OpenGL</a><br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 📫 You can reach me through my <a href="https://github.com/FranzLor">GitHub</a><br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 👨‍💻 All of my projects are available in my <a href="https://github.com/FranzLor?tab=repositories">Repos</a><br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 📝 I write my experiences on Game Dev projects at my <a href="https://franzlor.com/">website</a><br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🤝 Open to collaborate.
-</h6>
+</h5>
 
 ###
