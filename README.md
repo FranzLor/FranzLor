@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FranzLor&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FranzLor&theme=dracula&border_radius=5&card_width=150" alt="GitHub Streak" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FranzLor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
